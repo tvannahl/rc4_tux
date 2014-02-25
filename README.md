@@ -23,5 +23,7 @@ What you about to see are 6 Images in 4 steps:
  4. Can you see the penguin? Is (3a xor 3b). What you're about to see is just
     the same (2a xor 2b).
 
+![example](Tux-rc4.png?raw=true)
+
 I want to thank Dr. Jürgen Koslowski on this place for teaching us the basics
 of cryptography.
